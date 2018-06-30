@@ -10,11 +10,3 @@ Created a script that loops through each year of stock data and grab the total a
 
 
 Here is image:
-
-![VBA Chart]()
-
-
-```python
-import pandas as pd
-```
-
