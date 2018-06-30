@@ -11,7 +11,7 @@ Created a script that loops through each year of stock data and grab the total a
 
 Here is image:
 
-![VBA Chart](https://github.com/Kalsoomalik/vba-homework/blob/master/vba-homework-sheetforyr2014.png)
+![VBA Chart]()
 
 
 ```python
