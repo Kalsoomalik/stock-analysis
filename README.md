@@ -10,3 +10,6 @@ Created a script that loops through each year of stock data and grab the total a
 
 
 Here is image:
+![my-vba-image](https://github.com/Kalsoomalik/stock-analysis/blob/master/sheetyr2016.png)
+
+
